@@ -4,7 +4,7 @@
 
 ## Overview
 This documentation covers **Advanced Nmap Port Scanning & Enumeration**.  
-On this day, the main focus is understanding how Nmap performs different types of scans, how to control scan speed and accuracy, and how to enumerate services running on open ports.
+On this day, the main focus is understanding how Nmap performs different types of scans, how to control scan speed and accuracy, and how to enumerate services running on open ports .
 
 This module includes:
 
