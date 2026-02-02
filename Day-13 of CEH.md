@@ -10,7 +10,7 @@ The objective of this session is to understand how network services expose infor
 
 ---
 
-## 2. Enumeration in Ethical Hacking
+## 2. Enumeration in Ethical Hacking 
 Enumeration is the process of actively extracting detailed information from a target system after scanning. It involves direct interaction with services to obtain usernames, machine names, shared resources, network structure, and service configurations. Enumeration converts basic reconnaissance data into actionable intelligence used for further exploitation.
 
 ---
