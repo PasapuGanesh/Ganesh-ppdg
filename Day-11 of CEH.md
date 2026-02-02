@@ -3,7 +3,7 @@
 </div>
 
 
-## DNS Enumeration & Password Attacks
+## DNS Enumeration & Password Attacks 
 
 > Part of CEH (Certified Ethical Hacker) Practical Learning  
 > Topic: DNS Enumeration, FTP Enumeration & Password Attacks
